@@ -1,0 +1,8 @@
+Solving a problem for someone that I know was very satisfactory in the end because not only did it solve their problem
+for their values, it can solve similar problems with different dimensions in the future. I did like the challenge of
+solving this problem myself, however, I did face many more problems than when I work with someone else. Thus I do
+prefer working with a partner because it is much more efficient. When a problem comes up, one person may be able to
+solve it much quicker. In my code I faced a problem with the equation which had taken me a lot longer to solve than
+it would've with other people. Through this coding I learned to use math in coding with multiple varibles. This will
+help me in the future with much more complex problems. I believe that I worked efficiently for the most part but next
+time I would possibly plan out my algorithm better so that I do not face a problem that stumps me.

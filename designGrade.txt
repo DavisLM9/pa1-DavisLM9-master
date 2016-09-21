@@ -1,0 +1,11 @@
+Grade: 10/10
+** no points can be earned if there is no statement from a user
+
+States problem to solve, and it is a valid choice (1/1):
+
+States person who is customer and their relationship (1/1):
+
+States reference where calculation is looked up, unless calculation is common knowledge (1/1):
+
+Algorithm follows rules of an algorithm, has all necessary steps, includes input, calculation, and output (7/7):
+- each step should be numbered

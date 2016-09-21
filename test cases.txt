@@ -1,0 +1,20 @@
+1.Description:Zero as an input
+Input: base1=0, base2=0, height=o
+Output: area= 0
+
+2. Description: To get a large area
+Input: base1=100, base2=200, height=300
+Output: area=45000
+
+3. Decription: To get a small area
+Input: base1=4, base2=5, height= 2
+Output: area=9
+
+4.Description: Simple non zero for inputs
+Input: base1=1, base2=2, height=1
+Output: area=1.5
+
+5.Description: To get an area of 20
+Input: base1=7, base2=3, height=4
+Output: area=20
+

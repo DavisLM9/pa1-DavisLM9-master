@@ -1,0 +1,13 @@
+I will be solving the area of a trapezoid for my roommate Danny Trocchia
+
+I did not use any references to help calculate the problem because I knew how to find the area of a trapezoid
+
+Output to the user a brief description of what the program does: "This program will calculatre the area of a trapezoid."
+
+Input the height of the trapezoid: "Please enter the height of the trapezoid: "
+Input the length of base one of the trapezoid: "Please enter the length of base one of the trapezoid: "
+Input the length of base two of the trapezoid: "Please enter the length of base two of the trapezoid: "
+
+Area of trapezoid: h((b1+b2)/2))
+
+Output the result of the area of the trapezoid
